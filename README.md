@@ -17,8 +17,6 @@ This repository contains my customized `user.js` file for Firefox, based on the 
 - Using `resistFingerprinting = true`
 - Timezone spoofed to `Atlantic/Reykjavik`
 - Canvas and WebGL randomized
-- Multiple internal PDF viewers removed
-- Screen size set to 1400x700x24
 
 ## 📄 user.js Overview
 
