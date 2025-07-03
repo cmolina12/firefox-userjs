@@ -12,7 +12,7 @@ This repository contains my customized `user.js` file for Firefox, based on the 
 ## 🧪 Notes
 
 - Tested on:
-  - Firefox `v140.0` on **macOS 14 Sonoma**
+  - Firefox `v140.0` on **macOS 15.5 Sequoia**
   - Firefox `v140.0` on **Linux Mint Cinnamon (latest release)**
 - Using `resistFingerprinting = true`
 - Timezone spoofed to `Atlantic/Reykjavik`
